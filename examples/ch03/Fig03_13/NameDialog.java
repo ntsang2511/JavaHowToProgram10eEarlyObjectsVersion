@@ -8,6 +8,7 @@ public class NameDialog
    {
       // prompt user to enter name
       String name = JOptionPane.showInputDialog("Ask age");
+      String name = JOptionPane.showInputDialog("What is your age?");
       
       // create the message
       String message =                                              
